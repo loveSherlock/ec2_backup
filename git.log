@@ -1,0 +1,206 @@
+commit 65dfa9ef72774e90a80eb645b682e0db7e58c6b4
+Merge: e851ed9 0ee17ca
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 15:45:40 2016 -0400
+
+    Merge branch 'master' of github.com:k024zz/ec2-backup
+
+commit e851ed94b33bfe4c7e108b57c4ee04f8f83660ed
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 15:45:22 2016 -0400
+
+    README
+
+commit 0ee17ca9314cce06b9ac8e4663254ca15d045e91
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 15:43:47 2016 -0400
+
+    final
+
+commit cb9530d6bf2313e94d293c15049adef96d11d667
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 15:22:25 2016 -0400
+
+    bugs
+
+commit f58c9dad03c355e69ef7a8c858d7230e16a5f1a8
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 15:11:32 2016 -0400
+
+    fix bug
+
+commit a125802ee9910e86f641ad3fea591604dc83828f
+Merge: 235036e f4f44ce
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 14:49:49 2016 -0400
+
+    123
+
+commit 235036e1b7ef5dd3fa2791af3ad2757b930dba8f
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 14:45:36 2016 -0400
+
+    292 debug
+
+commit f4f44ce7b19b479879ce274893624f720a647f9d
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 14:34:37 2016 -0400
+
+    littel change
+
+commit 1f10c08db1801cdf070d979a4450bf1530250255
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 14:30:07 2016 -0400
+
+    repair 292
+
+commit 6364244717ebfb7c30e015ea6dff06b73b496dec
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 14:14:35 2016 -0400
+
+    merge test
+
+commit 9fc1f91812e64fc4706ef4126bbcd358e155e4d6
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 14:03:07 2016 -0400
+
+    merge
+
+commit bab770e92ad39d6237b54a4dcc109b3250a422f4
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 13:46:57 2016 -0400
+
+    judge
+
+commit fb94e319594f1fba24b41413eea243b593629ced
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 13:18:04 2016 -0400
+
+    littel output change
+
+commit 9cdc2b43ebdbc67b47d02b2cfee2e2870ec9ed33
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 13:14:58 2016 -0400
+
+    modified backup functions
+
+commit edde42100d7868dcfb92c3f20527120efbfdd35c
+Merge: 173f6f4 91ef4c7
+Author: Hiukin <k024zz@users.noreply.github.com>
+Date:   Mon Apr 11 13:08:43 2016 -0400
+
+    Merge pull request #4 from k024zz/hiukin
+    
+    Hiukin
+
+commit 173f6f4ceb3860419d02606b6cca622ad4f86cf4
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 13:08:14 2016 -0400
+
+    update
+
+commit 91ef4c77e25f67d0e1a96e5c06914434fd6fa81c
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 13:08:08 2016 -0400
+
+    ssh flag
+
+commit 43fa00fec84a38967b7eb164c4e3d9ce88ea529d
+Merge: bf36d1d aff91ef
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 12:51:31 2016 -0400
+
+    merge
+
+commit aff91ef1df894cc9cf2e4a1905941be197fe6010
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 12:47:34 2016 -0400
+
+    dd, rsync and mount/umount functions
+
+commit 256e15251719ccb29ea47ebbdfbc1421b76b56b2
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 10:14:11 2016 -0400
+
+    demo without flag
+
+commit bf36d1dc4a583d219dcfa415354aac2784750eab
+Merge: 8bdbee9 44a9f2a
+Author: Hiukin <k024zz@users.noreply.github.com>
+Date:   Mon Apr 11 01:52:22 2016 -0400
+
+    Merge pull request #3 from k024zz/hiukin
+    
+    switch vol type
+
+commit 44a9f2aca8684d3e3001d23d679f8446c42aaa6e
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 01:51:29 2016 -0400
+
+    switch vol type
+
+commit 8bdbee9690ffff33574f6a40906e528f8f62d363
+Merge: d025bb7 7ae06b3
+Author: Hiukin <k024zz@users.noreply.github.com>
+Date:   Mon Apr 11 01:16:39 2016 -0400
+
+    Merge pull request #2 from k024zz/hiukin
+    
+    devide
+
+commit 7ae06b3e650b60b3dd4791540268e9c9b6a5f936
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 01:15:55 2016 -0400
+
+    devide
+
+commit a1b609de597b35ea1dfba94a82b9eb56b5035084
+Author: loveSherlock <fanxz@me.com>
+Date:   Mon Apr 11 00:50:59 2016 -0400
+
+    1
+
+commit d025bb78a13c288b7d943e72f01fd96be5361f24
+Merge: 11e88cd 8016e00
+Author: Hiukin <k024zz@users.noreply.github.com>
+Date:   Mon Apr 11 00:47:46 2016 -0400
+
+    Merge pull request #1 from k024zz/hiukin
+    
+    Hiukin
+
+commit 8016e00bafab65c2411821dc9e20130679022334
+Author: k024zz <490874727@qq.com>
+Date:   Mon Apr 11 00:41:34 2016 -0400
+
+    demo ver
+
+commit c2cd1ce295ba2dc125b9b9a983f5fdc40e0a5f98
+Author: loveSherlock <fanxz@me.com>
+Date:   Sun Apr 10 23:09:50 2016 -0400
+
+    111
+
+commit daee0ab55771d787f42b08496e8455f37ac4434e
+Author: loveSherlock <fanxz@me.com>
+Date:   Sun Apr 10 23:08:44 2016 -0400
+
+    test
+
+commit cf4a16e9d4e207c1274bf31d6a94ad0c995edaaf
+Author: k024zz <490874727@qq.com>
+Date:   Fri Apr 8 16:23:04 2016 -0400
+
+    getopt template
+
+commit 11e88cd20fd56c00ca8264dde1ee881ab8d55195
+Author: k024zz <490874727@qq.com>
+Date:   Fri Apr 8 14:46:59 2016 -0400
+
+    test commit
+
+commit 8a776b5cbbcdc484d31c3f343120da29d5d1af5c
+Author: Xiaojian Zhu <xzhu13@stevens.edu>
+Date:   Fri Apr 8 14:32:05 2016 -0400
+
+    first commit
